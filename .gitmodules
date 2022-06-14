@@ -1,0 +1,3 @@
+[submodule "repo-sub"]
+	path = repo-sub
+	url = https://github.com/andreasgrob/repo-sub.git
